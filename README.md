@@ -7,3 +7,8 @@
 - [How HTTPS works](https://howhttps.works/)
 - [How CDN works](https://aws.amazon.com/what-is/cdn/)
 - [How VPN works](https://computer.howstuffworks.com/vpn.htm)
+
+### How JavaScript Works:
+- [✨♻️ JavaScript Visualized: Event Loop - DEV Community 👩‍💻👨‍💻](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif)
+- [The event loop - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop)
+- [JavaScript Execution Context – How JS Works Behind the Scenes](https://www.freecodecamp.org/news/how-javascript-works-behind-the-scene-javascript-execution-context/)
