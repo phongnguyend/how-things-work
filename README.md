@@ -5,10 +5,13 @@
 - [How web browsers work | dev.to](https://dev.to/arikaturika/how-web-browsers-work-part-1-with-illustrations-1nid)
 - [How DNS works](https://howdns.works/)
 - [How HTTPS works](https://howhttps.works/)
-- [How CDN works](https://aws.amazon.com/what-is/cdn/)
 - [How VPN works](https://computer.howstuffworks.com/vpn.htm)
 
 ### How JavaScript Works:
 - [✨♻️ JavaScript Visualized: Event Loop - DEV Community 👩‍💻👨‍💻](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif)
 - [The event loop - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop)
 - [JavaScript Execution Context – How JS Works Behind the Scenes](https://www.freecodecamp.org/news/how-javascript-works-behind-the-scene-javascript-execution-context/)
+
+### How CDN Works
+- [What is a CDN? - CDN Explained - AWS](https://aws.amazon.com/what-is/cdn/)
+- [What Is A CDN? How Does It Work? - YouTube](https://www.youtube.com/watch?v=RI9np1LWzqw)
