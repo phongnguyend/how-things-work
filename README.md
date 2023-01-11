@@ -1,8 +1,11 @@
-- [How Operating Systems Work | HowStuffWorks](https://computer.howstuffworks.com/operating-system.htm)
 - [How web browsers work | dev.to](https://dev.to/arikaturika/how-web-browsers-work-part-1-with-illustrations-1nid)
 - [How DNS works](https://howdns.works/)
 - [How HTTPS works](https://howhttps.works/)
 - [How VPN works](https://computer.howstuffworks.com/vpn.htm)
+
+### How Operating Systems Work
+- [How Operating Systems Work | HowStuffWorks](https://computer.howstuffworks.com/operating-system.htm)
+- [Process vs Thread - YouTube](https://www.youtube.com/watch?v=4rLW7zg21gI)
 
 ### How OSI Model Works
 - [How OSI Model Works | HowStuffWorks](https://computer.howstuffworks.com/osi.htm)
