@@ -6,6 +6,7 @@
 ### How Operating Systems Work
 - [How Operating Systems Work | HowStuffWorks](https://computer.howstuffworks.com/operating-system.htm)
 - [Process vs Thread - YouTube](https://www.youtube.com/watch?v=4rLW7zg21gI)
+- [Difference between Swapping and Context Switching - GeeksforGeeks](https://www.geeksforgeeks.org/difference-between-swapping-and-context-switching/)
 
 ### How OSI Model Works
 - [How OSI Model Works | HowStuffWorks](https://computer.howstuffworks.com/osi.htm)
