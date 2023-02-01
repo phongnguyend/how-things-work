@@ -1,5 +1,4 @@
 - [How web browsers work | dev.to](https://dev.to/arikaturika/how-web-browsers-work-part-1-with-illustrations-1nid)
-- [How DNS works](https://howdns.works/)
 - [How HTTPS works](https://howhttps.works/)
 - [How VPN works](https://computer.howstuffworks.com/vpn.htm)
 
@@ -15,6 +14,11 @@
 - [What is OSI Model | Real World Examples - YouTube](https://www.youtube.com/watch?v=0y6FtKsg6J4)
 - [OSI Model Explained | Real World Example - YouTube](https://www.youtube.com/watch?v=LANW3m7UgWs)
 - [OSI Model Explained | OSI Animation | Open System Interconnection Model | OSI 7 layers | TechTerms - YouTube](https://www.youtube.com/watch?v=vv4y_uOneC0)
+
+### How DNS Works
+- [How DNS works](https://howdns.works/)
+- [What is Anycast DNS? | How Anycast works with DNS | Cloudflare](https://www.cloudflare.com/learning/dns/what-is-anycast-dns/)
+- [Anycast DNS overview | Microsoft Learn](https://learn.microsoft.com/en-us/windows-server/networking/dns/deploy/anycast)
 
 ### How JavaScript Works
 - [✨♻️ JavaScript Visualized: Event Loop - DEV Community 👩‍💻👨‍💻](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif)
