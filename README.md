@@ -28,3 +28,8 @@
 ### How CDN Works
 - [What is a CDN? - CDN Explained - AWS](https://aws.amazon.com/what-is/cdn/)
 - [What Is A CDN? How Does It Work? - YouTube](https://www.youtube.com/watch?v=RI9np1LWzqw)
+
+### How NoSQL Databases Work
+- [How do NoSQL databases work? Simply Explained! - YouTube](https://www.youtube.com/watch?v=0buKQHokLK8)
+- [Consistent Hashing | Algorithms You Should Know #1 - YouTube](https://www.youtube.com/watch?v=UF9Iqmg94tk)
+- [The Secret Sauce Behind NoSQL: LSM Tree - YouTube](https://www.youtube.com/watch?v=I6jB0nM9SKU)
