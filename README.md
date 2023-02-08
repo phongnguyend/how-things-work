@@ -41,3 +41,7 @@
 - [How do NoSQL databases work? Simply Explained! - YouTube](https://www.youtube.com/watch?v=0buKQHokLK8)
 - [Consistent Hashing | Algorithms You Should Know #1 - YouTube](https://www.youtube.com/watch?v=UF9Iqmg94tk)
 - [The Secret Sauce Behind NoSQL: LSM Tree - YouTube](https://www.youtube.com/watch?v=I6jB0nM9SKU)
+
+### How Modern Compute Platforms Work
+- [How Modern Compute Platforms Work](https://www.freecodecamp.org/news/modern-compute-platforms/)
+- [What is Cloud Computing? Explained for Beginners](https://www.freecodecamp.org/news/what-is-cloud-computing-beginners-guide/)
