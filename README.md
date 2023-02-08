@@ -25,6 +25,10 @@
 - [The event loop - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop)
 - [JavaScript Execution Context – How JS Works Behind the Scenes](https://www.freecodecamp.org/news/how-javascript-works-behind-the-scene-javascript-execution-context/)
 
+### How JavaScript Frameworks Work
+- [Understanding client-side JavaScript frameworks - Learn web development | MDN](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks)
+- [Concepts behind modern frameworks - DEV Community 👩‍💻👨‍💻](https://dev.to/lexlohr/concepts-behind-modern-frameworks-4m1g)
+
 ### How CDN Works
 - [What is a CDN? - CDN Explained - AWS](https://aws.amazon.com/what-is/cdn/)
 - [What Is A CDN? How Does It Work? - YouTube](https://www.youtube.com/watch?v=RI9np1LWzqw)
