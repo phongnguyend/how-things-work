@@ -29,6 +29,11 @@
 - [Understanding client-side JavaScript frameworks - Learn web development | MDN](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks)
 - [Concepts behind modern frameworks - DEV Community 👩‍💻👨‍💻](https://dev.to/lexlohr/concepts-behind-modern-frameworks-4m1g)
 
+### How Cookies Work
+- [How Internet Cookies Work | HowStuffWorks](https://computer.howstuffworks.com/cookie.htm)
+- [What Are Internet Cookies and How Are They Used? | All About Cookies](https://allaboutcookies.org/what-is-a-cookie)
+- [Computer Cookies: What They Are and How They Work (Infographic)](https://www.hp.com/us-en/shop/tech-takes/what-are-computer-cookies)
+
 ### How Cross-Origin Resource Sharing (CORS) Works
 - [Cross-Origin Resource Sharing (CORS) - HTTP | MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
 - [What is CORS? Complete Tutorial on Cross-Origin Resource Sharing](https://auth0.com/blog/cors-tutorial-a-guide-to-cross-origin-resource-sharing/)
