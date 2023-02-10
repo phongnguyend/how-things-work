@@ -29,6 +29,12 @@
 - [Understanding client-side JavaScript frameworks - Learn web development | MDN](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks)
 - [Concepts behind modern frameworks - DEV Community 👩‍💻👨‍💻](https://dev.to/lexlohr/concepts-behind-modern-frameworks-4m1g)
 
+### How Cross-Origin Resource Sharing (CORS) Works
+- [Cross-Origin Resource Sharing (CORS) - HTTP | MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
+- [What is CORS? Complete Tutorial on Cross-Origin Resource Sharing](https://auth0.com/blog/cors-tutorial-a-guide-to-cross-origin-resource-sharing/)
+- [Cross-Origin Resource Sharing (CORS)](https://web.dev/cross-origin-resource-sharing/)
+- [How CORS (cross-origin resource sharing) works](https://www.educative.io/answers/how-cors-cross-origin-resource-sharing-works)
+
 ### How CDN Works
 - [What is a CDN? - CDN Explained - AWS](https://aws.amazon.com/what-is/cdn/)
 - [What Is A CDN? How Does It Work? - YouTube](https://www.youtube.com/watch?v=RI9np1LWzqw)
