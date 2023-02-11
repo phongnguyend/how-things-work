@@ -12,6 +12,9 @@
 - [OSI Model Explained | Real World Example - YouTube](https://www.youtube.com/watch?v=LANW3m7UgWs)
 - [OSI Model Explained | OSI Animation | Open System Interconnection Model | OSI 7 layers | TechTerms - YouTube](https://www.youtube.com/watch?v=vv4y_uOneC0)
 
+### How Routers Work
+- TBU
+
 ### How Firewalls Work
 - [How Firewalls Work | HowStuffWorks](https://computer.howstuffworks.com/firewall.htm)
 - [Security Firewalls: How Do Firewalls Work? - N-able](https://www.n-able.com/blog/how-do-firewalls-work)
@@ -31,6 +34,18 @@
 
 ### How HTTPS Works
 - [How HTTPS works](https://howhttps.works/)
+
+### How Forward Proxies Work
+- TBU
+
+### How Reverse Proxies Work
+- TBU
+
+### How Load Balancers Work
+- TBU
+
+### How Api Gateways Work
+- TBU
 
 ### How JavaScript Works
 - [✨♻️ JavaScript Visualized: Event Loop - DEV Community 👩‍💻👨‍💻](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif)
