@@ -26,6 +26,7 @@
 
 ### How Web Browsers Work
 - [How web browsers work | dev.to](https://dev.to/arikaturika/how-web-browsers-work-part-1-with-illustrations-1nid)
+- [Populating the page: how browsers work - Web performance | MDN](https://developer.mozilla.org/en-US/docs/Web/Performance/How_browsers_work)
 
 ### How DNS Works
 - [How DNS works](https://howdns.works/)
