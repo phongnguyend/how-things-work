@@ -1,6 +1,3 @@
-- [How web browsers work | dev.to](https://dev.to/arikaturika/how-web-browsers-work-part-1-with-illustrations-1nid)
-- [How HTTPS works](https://howhttps.works/)
-- [How VPN works](https://computer.howstuffworks.com/vpn.htm)
 
 ### How Operating Systems Work
 - [How Operating Systems Work | HowStuffWorks](https://computer.howstuffworks.com/operating-system.htm)
@@ -21,10 +18,19 @@
 - [How Does a Firewall Work? | Fortinet](https://www.fortinet.com/resources/cyberglossary/how-does-a-firewall-work)
 - [What is a Firewall? How Firewalls Work & Types of Firewalls](https://www.kaspersky.com/resource-center/definitions/firewall)
 
+### How VPN Works
+- [How a VPN (Virtual Private Network) Works | HowStuffWorks](https://computer.howstuffworks.com/vpn.htm)
+
+### How Web Browsers Work
+- [How web browsers work | dev.to](https://dev.to/arikaturika/how-web-browsers-work-part-1-with-illustrations-1nid)
+
 ### How DNS Works
 - [How DNS works](https://howdns.works/)
 - [What is Anycast DNS? | How Anycast works with DNS | Cloudflare](https://www.cloudflare.com/learning/dns/what-is-anycast-dns/)
 - [Anycast DNS overview | Microsoft Learn](https://learn.microsoft.com/en-us/windows-server/networking/dns/deploy/anycast)
+
+### How HTTPS Works
+- [How HTTPS works](https://howhttps.works/)
 
 ### How JavaScript Works
 - [✨♻️ JavaScript Visualized: Event Loop - DEV Community 👩‍💻👨‍💻](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif)
