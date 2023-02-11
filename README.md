@@ -15,6 +15,12 @@
 - [OSI Model Explained | Real World Example - YouTube](https://www.youtube.com/watch?v=LANW3m7UgWs)
 - [OSI Model Explained | OSI Animation | Open System Interconnection Model | OSI 7 layers | TechTerms - YouTube](https://www.youtube.com/watch?v=vv4y_uOneC0)
 
+### How Firewalls Work
+- [How Firewalls Work | HowStuffWorks](https://computer.howstuffworks.com/firewall.htm)
+- [Security Firewalls: How Do Firewalls Work? - N-able](https://www.n-able.com/blog/how-do-firewalls-work)
+- [How Does a Firewall Work? | Fortinet](https://www.fortinet.com/resources/cyberglossary/how-does-a-firewall-work)
+- [What is a Firewall? How Firewalls Work & Types of Firewalls](https://www.kaspersky.com/resource-center/definitions/firewall)
+
 ### How DNS Works
 - [How DNS works](https://howdns.works/)
 - [What is Anycast DNS? | How Anycast works with DNS | Cloudflare](https://www.cloudflare.com/learning/dns/what-is-anycast-dns/)
